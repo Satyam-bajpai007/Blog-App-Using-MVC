@@ -1,0 +1,15 @@
+{
+    "name": "cedcoss/mvc-blog",
+    "autoload": {
+        "psr-4": {
+            "Cedcoss\\MvcBlog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "satyam01032023",
+            "email": "satyambajpai@cedcoss.com"
+        }
+    ],
+    "require": {}
+}
